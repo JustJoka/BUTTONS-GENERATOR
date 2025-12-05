@@ -36,7 +36,7 @@ Cores variadas<br>
 Container limpo a cada geração<br>
 <br>
 🖼️ Demonstração<br>
-[Preview](https://github.com/JustJoka/BUTTONS-GENERATOR/blob/main/BOTOES%20COLORIDOS/images/Screenshot%202025-12-05%20105726.png?raw=true)<br>
+![Preview](https://github.com/JustJoka/BUTTONS-GENERATOR/blob/main/BOTOES%20COLORIDOS/images/Screenshot%202025-12-05%20105726.png?raw=true)<br>
 <br>
 markdown<br>
 Copiar código<br>
